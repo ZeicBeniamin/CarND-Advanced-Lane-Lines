@@ -1,6 +1,8 @@
 ## Advanced Lane Finding
 
 This project is currently under construction. The final output should look like the image below.
+
+#### The file _processed_video.mp4_ illustrates the current state of the project.
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Lanes Image](./examples/example_output.jpg)
 
